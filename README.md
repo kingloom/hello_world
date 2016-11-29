@@ -12,3 +12,7 @@ int main(int argc, char **argv)
   return 0;
 }
 ```
+
+$$ x^2 + y^2 - z^2 $$
+
+> this add is by my local computer.
